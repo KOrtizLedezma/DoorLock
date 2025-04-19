@@ -1,0 +1,8 @@
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\bin\Debug\net6.0\DoorLock.deps.json
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\bin\Debug\net6.0\DoorLock.dll
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\obj\Debug\net6.0\DoorLock.csproj.AssemblyReference.cache
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\obj\Debug\net6.0\DoorLock.GeneratedMSBuildEditorConfig.editorconfig
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\obj\Debug\net6.0\DoorLock.AssemblyInfoInputs.cache
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\obj\Debug\net6.0\DoorLock.AssemblyInfo.cs
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\obj\Debug\net6.0\DoorLock.csproj.CoreCompileInputs.cache
+K:\Users\PERSONAL\Projects\StardewValleyMod\DoorLock\obj\Debug\net6.0\DoorLock.dll

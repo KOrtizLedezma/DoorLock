@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kefmSMqSM+8=",
+  "success": true,
+  "projectFilePath": "K:\\Users\\PERSONAL\\Projects\\StardewValleyMod\\DoorLock\\DoorLock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenet\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

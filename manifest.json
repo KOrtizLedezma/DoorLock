@@ -1,0 +1,10 @@
+{
+  "Name": "DoorLock",
+  "Author": "Kenet Ortiz",
+  "Version": "1.0.0",
+  "Description": "Locks farmhouses so only the assigned player can enter them.",
+  "UniqueID": "KenetOrtizLedezma.KOL2016.DoorLock",
+  "EntryDll": "DoorLock.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
